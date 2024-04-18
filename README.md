@@ -35,10 +35,16 @@ hello. My name is Yuna Yang.
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+
+  ### 💬 collaboration tool
+  <div style="display: flex; flex-direction: row;">
 <img src= "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-
+<img src ="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </div>
+
 
 
 ### 📑 Studing
@@ -49,12 +55,15 @@ hello. My name is Yuna Yang.
 </div>
 
 
+
 ### ⤴️ Current Situation
 <p> 현재 데브코스 웹 풀 사이클 3기 과정 수료중입니다.</p>
 
 
+
 ### 🔗 My Blog
 https://diddbskb.tistory.com/
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdiddbskb.tistory.com&count_bg=%2398C079&title_bg=%23555555&icon=blogger.svg&icon_color=%23E7E7E7&title=BlogHits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funa3325%2F&count_bg=%2366B22C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHits&edge_flat=false)](https://hits.seeyoufarm.com)
