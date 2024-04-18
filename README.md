@@ -10,6 +10,13 @@ hello. My name is Yuna Yang.
   I am currently a 4th year student at Joongbu University and dream of becoming a full-stack developer.🌱
 </p>
 
+##
+
+<a href="https://github.com/una3325/"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=una3325&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Yuna's github stats" /></a>
+<a href="https://github.com/una3325/"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=una3325&layout=compact&theme=nord&hide_border=true" /></a>
+
+##
+
 ### 🐣 Things I code with 
 <div style="display: flex; flex-direction: row;">
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -53,10 +60,6 @@ https://diddbskb.tistory.com/
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdiddbskb.tistory.com&count_bg=%2398C079&title_bg=%23555555&icon=blogger.svg&icon_color=%23E7E7E7&title=BlogHits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funa3325%2F&count_bg=%2366B22C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHits&edge_flat=false)](https://hits.seeyoufarm.com)
 
----
-
-<a href="https://github.com/una3325/"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=una3325&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Yuna's github stats" /></a>
-<a href="https://github.com/una3325/"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=una3325&layout=compact&theme=nord&hide_border=true" /></a>
 
 
 
