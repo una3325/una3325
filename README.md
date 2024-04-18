@@ -17,7 +17,7 @@ hello. My name is Yuna Yang.
 
 ##
 
-### 🐣 Things I code with 
+### 🐣 Things I code with
 <div style="display: flex; flex-direction: row;">
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -49,7 +49,7 @@ hello. My name is Yuna Yang.
 </div>
 
 
-### ⤴️ current situation
+### ⤴️ Current Situation
 <p> 현재 데브코스 웹 풀 사이클 3기 과정 수료중입니다.</p>
 
 
