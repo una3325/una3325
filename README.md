@@ -5,7 +5,7 @@
   현재 대학교 4학년에 재학중이며 풀스택 개발자를 꿈꾸고 있습니다.🌱
 </p>
 
-### Things I code with 
+### 🐣 Things I code with 
 <div style="display: flex; flex-direction: row;">
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -24,14 +24,14 @@
 </div>
 
 
-### Tools 
+### 📚 Tools 
 <div style="display: flex; flex-direction: row;">
 <img src= "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
 
-### Studing
+### ✏️ Studing
 <div style="display: flex; flex-direction: row;">
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -40,12 +40,12 @@
 </div>
 
 
-### current situation
+### 📍 current situation
 <p> 현재 데브코스 웹 풀 사이클 3기 과정 수료중입니다.</p>
 
 
-### Where to find me
-Blog: https://diddbskb.tistory.com/
+### 📞 Where to find me
+- Blog: https://diddbskb.tistory.com/
 
 <!--
 **una3325/una3325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
