@@ -56,10 +56,6 @@ hello. My name is Yuna Yang.
 
 
 
-### ⤴️ Current Situation
-<p> 현재 데브코스 웹 풀 사이클 3기 과정 수료중입니다.</p>
-
-
 
 ### 🔗 My Blog
 https://diddbskb.tistory.com/
