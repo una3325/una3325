@@ -12,7 +12,7 @@ hello. My name is Yuna Yang.
 
 ##
 
-<a href="https://github.com/una3325/"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=una3325&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Yuna's github stats" /></a>
+
 <a href="https://github.com/una3325/"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=una3325&layout=compact&theme=nord&hide_border=true" /></a>
 
 ##
