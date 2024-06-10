@@ -2,12 +2,12 @@
 
 <p>안녕하세요. 제 이름은 양유나입니다.
   <br/> 
-  현재 중부대학교 4학년에 재학중이며 풀스택 개발자를 꿈꾸고 있습니다.🌱
+  현재 중부대학교 4학년에 재학중이며 웹 개발자를 꿈꾸고 있습니다.🌱
 </p>
 <p>
 hello. My name is Yuna Yang.
   <br/> 
-  I am currently a 4th year student at Joongbu University and dream of becoming a full-stack developer.🌱
+  I am currently a 4th year student at Joongbu University and dream of becoming a web developer.🌱
 </p>
 
 ##
