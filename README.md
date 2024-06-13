@@ -1,23 +1,8 @@
 ## Hi there. Welcome to My Github! 😊
 
-<p>안녕하세요. 제 이름은 양유나입니다.
-  <br/> 
-  현재 중부대학교 4학년에 재학중이며 웹 개발자를 꿈꾸고 있습니다.🌱
-</p>
-<p>
-hello. My name is Yuna Yang.
-  <br/> 
-  I am currently a 4th year student at Joongbu University and dream of becoming a web developer.🌱
-</p>
-
-##
 
 
-<a href="https://github.com/una3325/"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=una3325&layout=compact&theme=nord&hide_border=true" /></a>
-
-##
-
-### 🐣 Things I code with
+### 🛠️ Things I code with
 <div style="display: flex; flex-direction: row;">
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -55,6 +40,8 @@ hello. My name is Yuna Yang.
 </div>
 
 
+### 🖱️ Most Used Language
+<a href="https://github.com/una3325/"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=una3325&layout=compact&theme=nord&hide_border=true" /></a>
 
 
 ### 🔗 My Blog
